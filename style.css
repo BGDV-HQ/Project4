@@ -726,6 +726,50 @@ h3 {
     box-shadow: 0px 0px 0px #000000;
 }
 
+.bloc-margin {
+    //border: 2px solid red;
+    margin: auto 20% auto 13%;
+}
+
+.contact-title {
+    text-align: center;
+}
+
+.contact-description {
+    font-size: 18px!important;
+    text-align: center;
+}
+
+.contact-info {
+    display: flex;
+    flex-direction: row;
+    font-size: 14px;
+    text-align: justify;
+}
+
+.msgUs {
+    width: 40%;
+    margin-right: 40px;
+    margin-left: 12%;
+}
+
+.msgUs .form-group .form-control {
+    width: 100%;
+    margin-top: 4px;
+}
+
+.msgUs h2 {
+    margin-bottom: 8px;
+}
+
+.contactInfo h2 {
+    margin-bottom: 8px;
+}
+
+.bloc-button {
+    width: 102%;
+}
+
 h1 {
     color: #333333!important;
 }
@@ -789,7 +833,7 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: #f7834d;
+    background: #f78652;
     color: #FFFFFF!important;
 }
 
