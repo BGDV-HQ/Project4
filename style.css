@@ -770,6 +770,10 @@ h3 {
     width: 102%;
 }
 
+.bloc-header {
+    border: 2px solid red;
+}
+
 h1 {
     color: #333333!important;
 }
